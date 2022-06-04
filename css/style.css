@@ -1,0 +1,130 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+
+    width: 80%;
+
+    margin: auto;
+
+    overflow: hidden;
+
+    margin-bottom: 30px;
+
+    margin-top: 30px;
+}
+
+.galaxy_1 {
+
+    width: 50%;
+
+    float: left;
+}
+
+.galaxy_1 img {}
+
+.galaxy_2 {
+
+    width: 7%;
+
+    float: right;
+
+    text-transform: capitalize;
+
+    font-size: 26px;
+}
+
+.galaxy_2 img {}
+
+.bennur {
+    background-image: url(../images/bannur.png);
+    min-height: 100vh;
+}
+
+.style {
+    width: 58%;
+    text-align: center;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.style h1 {
+    color: #fff;
+    font-size: 55px;
+    text-transform: uppercase;
+    margin-top: 25%;
+}
+
+.style h4 {
+
+    margin-bottom: 4%;
+
+    text-align: center;
+
+    text-transform: capitalize;
+
+    color: #fff;
+
+    font-size: 25px;
+
+
+    padding: 19px 0px;
+}
+
+button {
+
+    color: #fff;
+
+    text-transform: capitalize;
+
+    border-width: 3px;
+
+    border-style: solid;
+
+    border-color: #ffff;
+
+    padding: 15px 75px;
+
+    border-radius: 9px;
+
+    background-color: red;
+}
+
+.design {
+
+    width: 90%;
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: space-around;
+
+    margin: 44px auto;
+}
+
+.web {
+
+    width: 33%;
+
+    text-align: center;
+}
+
+.design_images {
+
+    background-color: red;
+}
+
+.design_images img {}
+
+.web graphics {}
+
+.photographi {}
+
+.reten {}
+
+.reten img {
